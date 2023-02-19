@@ -1,6 +1,5 @@
-package Lesson5.src.test.java.org.example;
+package org.example;
 
-import Lesson5.src.main.java.org.example.Numbers;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
